@@ -4,7 +4,7 @@ import { Octokit } from "https://esm.sh/@octokit/core";
 
 // Skapar en instans av Octokit med autentisering och användaragent
 const octokit = new Octokit({
-  auth: "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",
+  auth: "", //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
   userAgent: "MyCV",
 });
 

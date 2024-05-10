@@ -1,0 +1,16 @@
+
+button {
+  border-radius: 8px;
+  border: 2px solid white;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #4d4c4c;
+  cursor: pointer;
+  margin: 10px;
+}
+
+button:hover {
+  border-color: #e65d0d;
+}
